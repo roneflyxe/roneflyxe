@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Roneflyxe</h1>
 <h3 align="center">A Cybersecurity Expert from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.prinsh.com/data-1/images/NathanPrinsley-anonymous-sad.jpg">
+<img align="right" alt="coding" width="200" src="https://cdn.prinsh.com/data-1/images/NathanPrinsley-anonymous-sad.jpg">
 - 🔭 I’m currently working on **Cyber71**
 
 - 📫 How to reach me **roneflyxe7@gmail.com**
